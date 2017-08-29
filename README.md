@@ -20,4 +20,4 @@ machine learning simple classifier
     * sugiro pegar uma amostra se for muito grande
 * comparar performance !
 * salvar no git o código e os dados de entrada
-* compartilhar sua versão do desafio no link do youtube https://www.youtube.com/watch?v=yLJnt0oSDFo 
+* colocar sua versão do desafio nos comentários do vídeo https://www.youtube.com/watch?v=yLJnt0oSDFo 
